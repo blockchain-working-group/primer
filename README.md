@@ -54,11 +54,6 @@ References	14
 Published Content Review Process	15
 Distribution of Draft Content	15
 
- 
-This page is blank.
-(Author, please delete the manual page break and the text on this page if your paper’s TOC spans two pages.)
-
-
 ## History & Drivers, the New Era of Digital Records
 
 "A gentleman named Hans Bethe who was one of the OGs of quantum mechanics… One day he figured out for the first time the actual process that led to the thermonuclear fusion in stars at night. He goes out on a date. At one point in the evening his date is looking up at the night sky and says, 'Oh look at the stars, how beautiful they are.' And Bethe says, 'Yes, and I'm the only person in the world that knows how they work.'
@@ -77,7 +72,6 @@ Innovation sits at the heart of the U.S. economy and is critical to support gove
 An incredibly complex landscape of policy, legal, national security, economic, and technological issues serve as the strategic backdrop for blockchain and digital asset development at this moment in history.  There are critical challenges that continue to present themselves in distributed ledger technology ecosystems around identity, privacy, discoverability, consumer protections, resilience, and regulation.  These challenges are only compounded by the complexity of these systems – for example, their ability to support value transfer and information transfer, activities that traditionally have very different policy frameworks and expectations applied to them, via the same rails.  The benefits and vulnerabilities of these systems also vary widely based on countless potential implementations across the systems of aspects of governance, operation, and the underlying technologies.  It’s all about the design.
 
 Exploring these technologies and addressing the key issues presented are also not the responsibility of just one sector – both the public and private sectors hold the capabilities, and responsibilities, to help ensure the responsible development of these technologies and related assets.  Technologists and policymakers must work together to continuously enhance their understanding of the technologies as well as policy and operational equities at play to drive responsible innovation.  This primer from ACT-IAC gives evidence to ongoing efforts across industry and government representatives to try to strengthen that understanding and lay the groundwork to shape a more positive future that leverages DLT and decentralized networks.
-
 
 Carole House<br>
 Executive in Residence, Terranet Ventures, Inc.<br>
@@ -140,7 +134,9 @@ In the case of private blockchains, or permissioned blockchains, participants mu
 
 In summary, permissionless ledgers do not require authorization and are accessible to the public for use. Private DLT networks require authorization to perform a particular activity or activities and are accessible for use only to a limited group of known users.
 
-      Image Source: Wikimedia Commons
+TODO: Image
+
+Image Source: Wikimedia Commons
 
 ### Consensus Mechanisms
 
